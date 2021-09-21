@@ -13,7 +13,7 @@ In the project directory, you can run:
  ## Framework used;
  Reactjs
  
- ##Programmong language used;
+ ## Programmong language used;
  JavaScript.
  
- ##Others; CSS HTML.
+ ## Others; CSS HTML.
