@@ -1,3 +1,4 @@
+This is a messaging application that functions just like the known whatsap.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
